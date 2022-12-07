@@ -67,19 +67,19 @@
               "widthDataType": 60,
               "widthDefault": 60
             },
-            "id": "20ea74d9-0266-49b6-bd1a-2041f32b586d"
+            "id": "5d4f7686-3a74-484c-8f9d-a6846ec34025"
           }
         ],
         "ui": {
           "active": true,
-          "left": 165,
-          "top": 103.5,
-          "zIndex": 17,
+          "left": 200,
+          "top": 100,
+          "zIndex": 9,
           "widthName": 60,
           "widthComment": 60
         },
         "visible": true,
-        "id": "f7ad14dc-cbf0-4c11-ac43-a562a6b570df"
+        "id": "176e6692-a49a-44d9-ba49-eafb1101aed8"
       }
     ],
     "indexes": []
