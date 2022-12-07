@@ -43,7 +43,7 @@
   "table": {
     "tables": [
       {
-        "name": "empleats",
+        "name": "employees",
         "comment": "",
         "columns": [
           {
@@ -71,11 +71,11 @@
           }
         ],
         "ui": {
-          "active": true,
+          "active": false,
           "left": 200,
           "top": 100,
-          "zIndex": 9,
-          "widthName": 60,
+          "zIndex": 10,
+          "widthName": 64.8671875,
           "widthComment": 60
         },
         "visible": true,
@@ -85,7 +85,20 @@
     "indexes": []
   },
   "memo": {
-    "memos": []
+    "memos": [
+      {
+        "value": "Seguir les convencions de codi de\nhttps://www.sqlstyle.guide/\n",
+        "ui": {
+          "active": false,
+          "left": 752.5,
+          "top": 153.5,
+          "zIndex": 13,
+          "width": 288.5,
+          "height": 100
+        },
+        "id": "2ad0da11-6567-4931-a2ea-9e5bce1c0f97"
+      }
+    ]
   },
   "relationship": {
     "relationships": []
