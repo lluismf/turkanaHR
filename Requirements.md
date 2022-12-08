@@ -13,9 +13,9 @@ Any type of absence (from holidays to any personal leave). It should be able to 
 - Material: to be able to record which material provided by the company the employee has.
 - Emergency contact
 - Notes (only visible to HR and managers)
-L&D: to be able to add which company training programs the employee has joined
+- Learning & Development: to be able to add which company training programs the employee has joined
 It is no less that customizable pages can be added (for example, in each employee file we have check-ins 1, 3 and 9 months after their incorporation, as well as exit interviews).
-Org chart
+- Organization chart
 - Reports: 
 Essential. It's fine if they come by default, but especially if they let you create them from the information in the database.
 - Onboarding/Offboarding
