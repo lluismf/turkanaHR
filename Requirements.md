@@ -2,7 +2,7 @@
    - Personal data of the employee
 You should be able to add custom fields. Many companies now want to have a record of their employees' height, food allergies and intolerances, etc.
    - Professional data of the employee
-It should have a reporting system, that is to say that it is possible to add who is the manager of the person and that this is the approver of certain actions within the same platform
+     - It should have a reporting system, that is to say that it is possible to add who is the manager of the person and that this is the approver of certain actions within the same platform
 They should be able to be updated without losing history. For example, Factorial when I used it did not allow you to change an intern to an employee, you had to terminate the person and create a new one, which was imputed to the leave reports. It didn't make sense.
 You should be able to add personalized fields
 If teams can also be added, to see who is part of each team beyond the manager (a manager can bring more than one team), great
