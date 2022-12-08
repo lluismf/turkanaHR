@@ -1,4 +1,4 @@
-Employee file:
+#Employee file:
 Personal data of the employee
 You should be able to add custom fields. Many companies now want to have a record of their employees' height, food allergies and intolerances, etc.
 Professional data of the employee
