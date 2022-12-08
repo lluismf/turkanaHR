@@ -6,7 +6,7 @@ You should be able to add custom fields. Many companies now want to have a recor
      - It should be able to be updated without losing history. For example, Factorial when I used it did not allow you to change an intern to an employee, you had to terminate the person and create a new one, which was imputed to the leave reports. It didn't make sense.
      - It should be able to add personalized fields
      - If teams can also be added, to see who is part of each team beyond the manager (a manager can bring more than one team), great
-- PTO system: 
+- PTO (Paid Time Off) system: 
 Any type of absence (from holidays to any personal leave). It should be able to require approval from the manager, and it should be able to incorporate limiting policies (eg: not being able to request more than 23 working days as vacation per year)
 - Documents: to have the entire employee file in one place.
 - Benefits: To be able to add which company benefits the employee has joined
@@ -21,6 +21,6 @@ Essential. It's fine if they come by default, but especially if they let you cre
 - Onboarding/Offboarding
 Ideal if you have a system of tasks that can be assigned to different stakeholders (some by the HR person, some by the manager, and some obviously by the new employee), to be able to follow all the same steps.
 - Calendar
-A very useful calendar that shows holidays (if it is intended at an international level, then with holidays by country showing each employee where he is and when he has a holiday) and the time reserved for each employee. If, in addition, it can be moved to Google Calendar (or Outlook or whatever other companies use), even better.
+A calendar that shows holidays (if it is intended at an international level, then with holidays by country showing each employee where he is and when he has a holiday) and the time reserved for each employee. If, in addition, it can be moved to Google Calendar (or Outlook or whatever other companies use), even better.
 It would be interesting if the system incorporated different levels of "visibility", for example that managers could have access to the labor data of their direct reports.
-If you think about SMEs, I don't think that adding the payroll through the platform is necessary, since they will usually have some management that will take this section to them.
+
