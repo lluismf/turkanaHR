@@ -1,4 +1,4 @@
-#Employee file:
+# Employee file:
 Personal data of the employee
 You should be able to add custom fields. Many companies now want to have a record of their employees' height, food allergies and intolerances, etc.
 Professional data of the employee
@@ -16,8 +16,9 @@ Notes (only visible to HR and managers)
 L&D: to be able to add which company training programs the employee has joined
 It is no less that customizable pages can be added (for example, in each employee file we have check-ins 1, 3 and 9 months after their incorporation, as well as exit interviews).
 Org chart
-Reports: essential. It's fine if they come by default, but especially if they let you create them from the information in the database.
+# Reports: essential. It's fine if they come by default, but especially if they let you create them from the information in the database.
 Onboarding/Offboarding: ideal if you have a system of tasks that can be assigned to different stakeholders (some by the HR person, some by the manager, and some obviously by the new employee), to be able to follow all the same steps.
-Calendar: a very useful calendar that shows holidays (if it is intended at an international level, then with holidays by country showing each employee where he is and when he has a holiday) and the time reserved for each employee. If, in addition, it can be moved to Google Calendar (or Outlook or whatever other companies use), even better.
+# Calendar
+A very useful calendar that shows holidays (if it is intended at an international level, then with holidays by country showing each employee where he is and when he has a holiday) and the time reserved for each employee. If, in addition, it can be moved to Google Calendar (or Outlook or whatever other companies use), even better.
 It would be interesting if the system incorporated different levels of "visibility", for example that managers could have access to the labor data of their direct reports.
 If you think about SMEs, I don't think that adding the payroll through the platform is necessary, since they will usually have some management that will take this section to them.
